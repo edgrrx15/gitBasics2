@@ -1,2 +1,3 @@
 # gitBasics2
-Comandos basicos de git
+Basic comands for git
+
